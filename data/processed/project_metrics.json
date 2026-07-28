@@ -1,0 +1,9 @@
+{
+  "n_shipments": 4,
+  "n_readings": 580,
+  "avg_max_temp": 10.78,
+  "avg_alert_readings": 3.75,
+  "avg_latency_saved": 3.86,
+  "alert_occurrence_rate": 100.0,
+  "avg_total_co2": 556.6
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "run": 0,
+    "seed": 7,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 1,
+    "seed": 8,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 2,
+    "seed": 9,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 3,
+    "seed": 10,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 4,
+    "seed": 11,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 5,
+    "seed": 12,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 6,
+    "seed": 13,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 7,
+    "seed": 14,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 8,
+    "seed": 15,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 9,
+    "seed": 16,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 10,
+    "seed": 17,
+    "alert_occurred": true,
+    "real_time_hour": 8.25,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.75
+  },
+  {
+    "run": 11,
+    "seed": 18,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 12,
+    "seed": 19,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 13,
+    "seed": 20,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 14,
+    "seed": 21,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 15,
+    "seed": 22,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 16,
+    "seed": 23,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 17,
+    "seed": 24,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 18,
+    "seed": 25,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 19,
+    "seed": 26,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 20,
+    "seed": 27,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 21,
+    "seed": 28,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 22,
+    "seed": 29,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 23,
+    "seed": 30,
+    "alert_occurred": true,
+    "real_time_hour": 8.08,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.92
+  },
+  {
+    "run": 24,
+    "seed": 31,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 25,
+    "seed": 32,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 26,
+    "seed": 33,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 27,
+    "seed": 34,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 28,
+    "seed": 35,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  },
+  {
+    "run": 29,
+    "seed": 36,
+    "alert_occurred": true,
+    "real_time_hour": 8.17,
+    "checkpoint_hour": 12.0,
+    "latency_hours": 3.83
+  }
+]
